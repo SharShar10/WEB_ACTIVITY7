@@ -1,0 +1,31 @@
+body {
+  background-image: url("ling1.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+ h1 {
+  color: #e2ee37;
+  border: 3px solid #830818;
+  background-color: rgb(8, 3, 1);
+  /* width: 20%; */
+  text-align: center;
+}
+
+
+p {
+  font-size: 28px;
+  color:rgb(238, 243, 248)
+  
+}
+
+button {
+  border: 3px solid #dd5608;
+  padding: 20px 30px;
+  font-size: 15px;
+  margin: 25px;
+}
